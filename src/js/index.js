@@ -5,7 +5,7 @@ const destinasi = [
 	{
 		id: 1,
 		negara: 'Serbia',
-		thumbnail: './images/belgrade.jpg',
+		thumbnail: 'images/belgrade.jpg',
 		judul: 'Belgrade',
 		highlight: 'Exuberant Nightlife by the Danube',
 		deskripsiPendek: `Outspoken, adventurous, proud and audacious: Belgrade ('White City') is by no means a 'pretty' capital, but its gritty exuberance makes it one of Europe's most happening cities.While it hurtles towards a brighter future, its chaotic past unfolds before your eyes: socialist blocks are squeezed between art nouveau masterpieces, and remnants of the Habsburg legacy contrast with Ottoman relics and socialist modernist monoliths. This is where the Sava and Danube Rivers kiss, an old - world culture that at once evokes time - capsuled communist - era Yugoslavia and new - world, EU - contending cradle of cool.`,
@@ -16,7 +16,7 @@ const destinasi = [
 	{
 		id: 2,
 		negara: 'Bosnia',
-		thumbnail: '../images/bosnia.jpg',
+		thumbnail: '../../images/bosnia.jpg',
 		judul: 'Sarajevo',
 		highlight: 'Intriguing and Cosmopolitan',
 		deskripsiPendek: `Sarajevo, capital of Bosnia and Herzegovina, is a compact city on the Miljacka River.Ringed by mountains, Sarajevo is a singular city with an enticing East-meets-West vibe all of its own. It was once renowned as a religious melting pot, earning it the epithet 'the Jerusalem of Europe'. Within a few blocks you can still find large Catholic and Orthodox cathedrals, Ashkenazi and Sephardic synagogues, and numerous mosques. However, the Jewish population was decimated during WWII and Sarajevo is now a divided city, with most of the Orthodox Christians living in Istočno Sarajevo (East Sarajevo) on the Republika Srpska side.`,
